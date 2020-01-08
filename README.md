@@ -1,2 +1,2 @@
-# frontend-final-final-ewchtwaar
+# Frontend development in Blok Web
  Frontend voorbeeld
